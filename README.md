@@ -38,7 +38,7 @@ Python 3.x · Selenium · webdriver-manager · csv · time · os
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USER/olx-price-scraper
+git clone https://github.com/Phernando82/web_scraping_olx.git
 cd olx-price-scraper
 pip install -r requirements.txt
 ```
